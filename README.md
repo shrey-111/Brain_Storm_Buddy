@@ -25,6 +25,6 @@ engagement.
 - HTML
 - CSS
 - JavaScript
-- 
+  
 - DashBoard
 -![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012417.png?raw=true)
