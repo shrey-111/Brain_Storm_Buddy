@@ -46,4 +46,7 @@ The Study Planner helps users organize their study schedule efficiently. It allo
 ### Study Tracker
 The Study Tracker helps users moniter their study consistently and productivity.
 ![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012524.png?raw=true)
+
+### Account Settings
+The Account Settings page allows users to manage their profile information, update email details,and change passwords securely.
 ![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012540.png?raw=true)
