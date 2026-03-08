@@ -42,5 +42,8 @@ The Task Manager helps users organize study tasks,track completion progress, and
 ### Study Planner
 The Study Planner helps users organize their study schedule efficiently. It allows students to plan daily learning activities,set study goals, and manage their time effectively to maintain consistent preparation
 ![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012509.png?raw=true)
+
+### Study Tracker
+The Study Tracker helps users moniter their study consistently and productivity.
 ![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012524.png?raw=true)
 ![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012540.png?raw=true)
