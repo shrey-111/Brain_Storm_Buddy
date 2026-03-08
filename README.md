@@ -26,7 +26,7 @@ The dashboard provides a quick overview of the user's activities, including stud
 - 📱 Responsive design for multiple devices
 
 ## 🛠️ Tech Stack
-- HTML
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - CSS
 - JavaScript
   
