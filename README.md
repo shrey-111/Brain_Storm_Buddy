@@ -16,7 +16,7 @@ peer learning.Developed a rewards system with coin-based milestones, badges, and
 engagement.
 ### Dashboard
 The dashboard provides a quick overview of the user's activities, including study progress and ongoing tasks, helping users stay organized and focused.
--![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012417.png?raw=true)
+![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012417.png?raw=true)
 
 ## ✨ Features
 - 🤖 AI-powered idea generation
@@ -33,12 +33,12 @@ The dashboard provides a quick overview of the user's activities, including stud
 ## Output Screen-shots
 ### Explore Section
 This section allows users to explore GATE preparation resources.
--![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012440.png?raw=true)
+![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012440.png?raw=true)
 
 ### Task Manager
 The Task Manager helps users organize study tasks,track completion progress, and maintain study streaks.
--![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012455.png?raw=true)
+![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012455.png?raw=true)
 
--![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012509.png?raw=true)
--![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012524.png?raw=true)
--![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012540.png?raw=true)
+![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012509.png?raw=true)
+![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012524.png?raw=true)
+![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012540.png?raw=true)
