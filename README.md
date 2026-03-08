@@ -52,3 +52,5 @@ The Study Tracker helps users moniter their study consistently and productivity.
 ### Account Settings
 The Account Settings page allows users to manage their profile information, update email details,and change passwords securely.
 ![Image_Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012540.png?raw=true)
+
+<!-- Failed to upload "Screen Recording 2026-03-09 025722.mp4" -->
