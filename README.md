@@ -14,7 +14,8 @@ Stack Development. Designed interactive dashboards with login/logout functionali
 management. Implemented a community forum feature enabling users to post questions and answer others, fostering 
 peer learning.Developed a rewards system with coin-based milestones, badges, and streak tracking to boost student 
 engagement.
-
+### Dashboard
+The dashboard provides a quick overview of the user's activities, including study progress and ongoing tasks, helping users stay organized and focused.
 -![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012417.png?raw=true)
 
 ## ✨ Features
