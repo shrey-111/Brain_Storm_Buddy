@@ -30,6 +30,7 @@ engagement.
 - JavaScript
   
 ## Output Screen-shots
+When the user explore the examination section
 -![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012440.png?raw=true)
 
 -![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012455.png?raw=true)
