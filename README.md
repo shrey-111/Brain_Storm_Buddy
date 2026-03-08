@@ -25,4 +25,4 @@ engagement.
 - HTML
 - CSS
 - JavaScript
--![Image Alt] (Screenshot 2026-03-09 012417.png)
+-![Image Alt](Screenshot 2026-03-09 012417.png)
