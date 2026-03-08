@@ -31,4 +31,5 @@ engagement.
   
 #Screeshot
 -![Image Alt](https://github.com/shrey-111/Brain_Storm_Buddy/blob/main/Screenshot%202026-03-09%20012440.png?raw=true)
+-![Image Alt](-![
 
