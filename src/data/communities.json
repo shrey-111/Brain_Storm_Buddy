@@ -1,0 +1,504 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "Civil Services": {
+      "UPSC": [
+        {
+          "name": "UPSC Prep Group",
+          "collectionName": "upscprepgroup",
+          "description": "A one-stop community for UPSC aspirants.",
+          "image": "UPSC1.png"
+        },
+        {
+          "name": "Daily Current Affairs",
+          "collectionName": "dailycurrentaffairs",
+          "description": "Get the latest current affairs for UPSC.",
+          "image": "UPSC2.png"
+        },
+        {
+          "name": "Mains Answer Writing",
+          "collectionName": "mainsanswerwriting",
+          "description": "Improve answer writing skills for UPSC mains.",
+          "image": "UPSC3.png"
+        },
+        {
+          "name": "Prelims Practice Hub",
+          "collectionName": "prelimspracticehub",
+          "description": "Practice MCQs and quizzes for UPSC prelims.",
+          "image": "UPSC4.png"
+        },
+        {
+          "name": "Optional Subjects",
+          "collectionName": "optionalsubjects",
+          "description": "Master UPSC optional subjects with experts.",
+          "image": "UPSC5.png"
+        }
+      ],
+      "State PCS": [
+        {
+          "name": "Tamil Nadu PCS Group",
+          "collectionName": "tamilnadupcsgroup",
+          "description": "Discussion group for Tamil Nadu PCS exams.",
+          "image": "TM.jpg"
+        },
+        {
+          "name": "Uttar Pradesh PCS Group",
+          "collectionName": "uttarpradeshpcsgroup",
+          "description": "Discussion group for Uttar Pradesh PCS exams.",
+          "image": "UP.jpg"
+        },
+        {
+          "name": "West Bengal PCS Group",
+          "collectionName": "westbengalpcsgroup",
+          "description": "Discussion group for West Bengal PCS exams.",
+          "image": "WB.jpg"
+        },
+        {
+          "name": "Punjab PCS Group",
+          "collectionName": "punjabpcsgroup",
+          "description": "Focused discussions for Punjab PCS exams.",
+          "image": "P1.jpg"
+        },
+        {
+          "name": "Rajasthan PCS Group",
+          "collectionName": "rajasthanpcsgroup",
+          "description": "A dedicated group for Rajsthan PCS aspirants.",
+          "image": "P2.jpg"
+        }
+      ]
+    },
+    "Web Developers": {
+      "Frontend": [
+        {
+          "name": "Frontend Dev Hub",
+          "collectionName": "frontenddevhub",
+          "description": "Connect with frontend developers worldwide.",
+          "image": "FD1.png"
+        },
+        {
+          "name": "Frontend Masters",
+          "collectionName": "frontendmasters",
+          "description": "Explore techniques in frontend development.",
+          "image": "FD2.png"
+        },
+        {
+          "name": "Beginners Group",
+          "collectionName": "beginnersgroup",
+          "description": "A supportive group for new frontend learners.",
+          "image": "FD3.png"
+        },
+        {
+          "name": "UI/UX Builders",
+          "collectionName": "uiuxbuilders",
+          "description": "Discuss and share UI/UX designs and implementations.",
+          "image": "FD4.png"
+        },
+        {
+          "name": "Coding Challenges",
+          "collectionName": "codingchallenges",
+          "description": "Take on challenges to enhance frontend coding skills.",
+          "image": "FD5.png"
+        }
+      ],
+      "Backend": [
+        {
+          "name": "Node.js Group",
+          "collectionName": "nodejsgroup",
+          "description": "Learn server-side JavaScript.",
+          "image": "BD1.png"
+        },
+        {
+          "name": "Express Developers",
+          "collectionName": "expressdevelopers",
+          "description": "Focus on lightweight web frameworks.",
+          "image": "BD2.png"
+        },
+        {
+          "name": "Backend Experts",
+          "collectionName": "backendexperts",
+          "description": "Share tips on backend development.",
+          "image": "BD3.png"
+        },
+        {
+          "name": "API Builders",
+          "collectionName": "apibuilders",
+          "description": "Create scalable and secure APIs.",
+          "image": "BD4.png"
+        }
+      ]
+    },
+    "App Developers": {
+      "Android Basics": [
+        {
+          "name": "Android Basics",
+        "collectionName": "androidbasics",
+        "description": "Learn the fundamentals of Android app development.",
+        "image": "BD1.png"
+        },
+        {
+          "name": "Kotlin for Android",
+        "collectionName": "kotlinforandroid",
+        "description": "Master Kotlin, the modern language for Android apps.",
+        "image": "BD2.png"
+        },
+        {
+          "name": "UI/UX in Android",
+        "collectionName": "uiuxinandroid",
+        "description": "Create Android app interfaces with Design.",
+        "image": "BD3.png"
+        },
+        {
+          "name": "Advanced Android",
+        "collectionName": "advancedandroid",
+        "description": "Dive into advanced topics like Jetpack and performance optimization.",
+        "image": "BD4.png"
+        }
+      ],
+      "IOS Developers": [
+        {
+          "name": "iOS Basics",
+        "collectionName": "iosbasics",
+        "description": "Learn the fundamentals of iOS app development with Swift.",
+        "image": "BD1.png"
+        },
+        {
+          "name": "Swift for iOS",
+        "collectionName": "swiftforios",
+        "description": "Master Swift to build efficient iOS real-time applications.",
+        "image": "BD2.png"
+        },
+        {
+          "name": "UI/UX in iOS",
+        "collectionName": "uiuxinios",
+        "description": "Design intuitive and responsive user interfaces for iOS apps.",
+        "image": "BD3.png"
+        },
+        {
+          "name": "Advanced iOS Development",
+        "collectionName": "advancediosdevelopment",
+        "description": "Explore advanced concepts like Core Data and SwiftUI.",
+        "image": "BD4.png"
+        }
+      ]
+    },
+    "Gate": {
+      "Beginner": [
+        {
+          "name": "GATE CS Prep",
+        "collectionName": "gatecsprep",
+        "description": "Prepare for GATE Computer Science with expert guidance.",
+        "image": "G.png"
+        },
+        {
+          "name": "GATE PYQs",
+        "collectionName": "gatepyqs",
+        "description": "Practice previous years' GATE questions for better insights.",
+        "image": "G1.png"
+        },
+        {
+          "name": "GATE Strategy Hub",
+        "collectionName": "gatestrategyhub",
+        "description": "Explore new strategies and tips to crack the GATE exam.",
+        "image": "G2.png"
+        }
+      ],
+      "Practice": [
+        {
+          "name": "GATE Mock Tests",
+        "collectionName": "gatemocktests",
+        "description": "Simulate real GATE exams with timed mock tests.",
+        "image": "G3.png"
+        },
+        {
+          "name": "Challenges",
+        "collectionName": "challenges",
+        "description": "Sharpen your skills with problem-solving exercises.",
+        "image": "G4.png"
+        },
+        {
+          "name": "Topic-Wise Practice",
+        "collectionName": "topicwisepractice",
+        "description": "Master GATE concepts with focused topic-wise practice.",
+        "image": "G5.png"
+        }
+      ]
+    },
+    "Competetive Exams": {
+      "SSC": [
+        {
+          "name": "SSC CGL Prep",
+        "collectionName": "ssccglprep",
+        "description": "Ace the SSC CGL exam with expert tips and materials.",
+        "image": "S1.png"
+        },
+        {
+          "name": "SSC CHSL Practice",
+        "collectionName": "ssccshlpractice",
+        "description": "Prepare for SSC CHSL with mock tests and guides.",
+        "image": "S2.png"
+        },
+        {
+          "name": "SSC GD Focus",
+        "collectionName": "sscgdfocus",
+        "description": "Learn new strategies to crack SSC GD exams effectively.",
+        "image": "S3.png"
+        },
+        {
+          "name": "Quantitative Mastery Group",
+        "collectionName": "quantitativemasterygroup",
+        "description": "Boost your SSC prep with quantitative aptitude drills.",
+        "image": "S4.png"
+        },
+        {
+          "name": "SSC General Awareness",
+        "collectionName": "sscgeneralawareness",
+        "description": "Stay updated with general knowledge.",
+        "image": "S5.png"
+        }
+      ],
+      "Banking": [
+        {
+          "name": "IBPS PO Prep",
+          "collectionName": "ibpspoprep",
+          "description": "Comprehensive resources to crack IBPS PO exams.",
+          "image": "B1.png"
+        },
+        {
+          "name": "SBI Clerk Focus",
+          "collectionName": "sbiclerkfocus",
+          "description": "Targeted practice for the SBI Clerk exam.",
+          "image": "B2.png"
+        },
+        {
+          "name": "RBI Assistant Guide",
+          "collectionName": "rbiasistantguide",
+          "description": "Tips and tricks to excel in RBI Assistant exams.",
+          "image": "B3.png"
+        },
+        {
+          "name": "Banking Awareness",
+          "collectionName": "bankingawareness",
+          "description": "Master banking and financial awareness for exams.",
+          "image": "B4.png"
+        },
+        {
+          "name": "Mock Tests for Banking",
+          "collectionName": "mocktestsforbanking",
+          "description": "Simulate real banking exams with mock tests.",
+          "image": "B5.png"
+        }
+      ],
+      "State Exams": [
+      {
+        "name": "Node.js Developers",
+        "collectionName": "nodejsdevelopers",
+        "description": "Community for backend developers.",
+        "image": "BD1.png"
+      },
+      {
+        "name": "Node.js Developers",
+        "collectionName": "nodejsdevelopers",
+        "description": "Community for backend developers.",
+        "image": "BD2.png"
+      },
+      {
+        "name": "Node.js Developers",
+        "collectionName": "nodejsdevelopers",
+        "description": "Community for backend developers.",
+        "image": "BD3.png"
+      },
+      {
+        "name": "Node.js Developers",
+        "collectionName": "nodejsdevelopers",
+        "description": "Community for backend developers.",
+        "image": "BD4.png"
+      }
+    ],
+    "NDA": [
+      {
+        "name": "NDA Written Prep",
+        "collectionName": "ndawrittenprep",
+        "description": "Master the syllabus and ace the NDA written exam.",
+        "image": "N1.png"
+      },
+      {
+        "name": "NDA Maths Practice",
+        "collectionName": "ndamathspractice",
+        "description": "Boost your problem-solving skills with focused maths prep.",
+        "image": "N2.png"
+      },
+      {
+        "name": "General Ability Hub",
+        "collectionName": "generalabilityhub",
+        "description": "Prepare for the general ability test with expert tips.",
+        "image": "N3.png"
+      },
+      {
+        "name": "SSB Interview Guide",
+        "collectionName": "ssbinterviewguide",
+        "description": "Learn strategies to excel in the SSB interview process.",
+        "image": "N5.png"
+      },
+      {
+        "name": "NDA Physical Prep",
+        "collectionName": "ndaphysicalprep",
+        "description": "Get ready for the physical fitness test with guidance.",
+        "image": "N4.png"
+      }
+    ]
+    },
+    "Artificial Intelligence": {
+      "Deep Learning": [
+      {
+        "name": "Neural Network Basics",
+        "collectionName": "neuralnetworkbasics",
+        "description": "Learn the fundamentals of neural networks and their applications.",
+        "image": "A1.png"
+      },
+      {
+        "name": "Deep Learning Models",
+        "collectionName": "deeplearningmodels",
+        "description": "Explore advanced models like CNNs, RNNs, and transformers.",
+        "image": "A2.png"
+      },
+      {
+        "name": "AI Applications Hub",
+        "collectionName": "aiapplicationshub",
+        "description": "Discover real-world applications of AI and deep learning.",
+        "image": "A3.png"
+      }
+    ],
+    "Machine Learning": [
+      {
+        "name": "ML Basics",
+        "collectionName": "mlbasics",
+        "description": "Start your journey with the fundamentals of machine learning.",
+        "image": "A4.png"
+      },
+      {
+        "name": "Supervised Learning",
+        "collectionName": "supervisedlearning",
+        "description": "Dive into classification and regression techniques.",
+        "image": "A5.png"
+      },
+      {
+        "name": "Unsupervised Learning",
+        "collectionName": "unsupervisedlearning",
+        "description": "Explore clustering and dimensionality reduction methods.",
+        "image": "A6.png"
+      }
+    ]
+    }
+  }
+  

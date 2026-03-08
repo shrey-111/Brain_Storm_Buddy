@@ -1,0 +1,80 @@
+.community-container {
+  padding: 30px;
+}
+
+.community-container h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.community-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  height: fit-content;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.post-list {
+  margin-top: 20px;
+}
+
+.post {
+  padding: 10px;
+  background-color: white;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post p {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+}
+
+small {
+  display: block;
+  margin-top: 10px;
+  font-size: 12px;
+  color: #666;
+}
+.post-actions {
+  margin-top: 8px;
+}
+
+.post-actions button {
+  background-color: white;
+  color: rgb(238, 121, 121);
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.post-actions button:hover {
+  background-color: white;
+}

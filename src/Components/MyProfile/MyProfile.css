@@ -1,0 +1,91 @@
+/* Profile container */
+.profile-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+/* Profile info section */
+.profile-info {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #eee;
+}
+
+.profile-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.user-info h3 {
+  margin: 0;
+  color: #007bff;
+}
+
+.user-info p {
+  margin: 0;
+  color: #555;
+}
+
+/* Joined Communities section */
+.joined-communities {
+  margin-top: 20px;
+}
+
+.community-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  cursor: pointer;
+}
+
+.community-item {
+  width: 30%;
+  background: #f4f4f4;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.community-item:hover {
+  transform: translateY(-10px);
+}
+
+.community-image {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.community-details {
+  padding: 15px;
+}
+
+.community-details h4 {
+  margin: 0 0 10px;
+  color: #333;
+}
+
+.community-details p {
+  margin: 0;
+  color: #666;
+}

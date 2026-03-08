@@ -1,0 +1,127 @@
+
+.study-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.study-title {
+  font-size: 2rem;
+  color: #1f2937;
+}
+
+.quote {
+  font-style: italic;
+  color: #555;
+}
+
+.streak {
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #d97706;
+}
+
+.review-timer-box {
+  background: #eaf4ff;
+  padding: 1.5rem;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.timer-config {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.timer-display {
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.start-btn,
+.running-controls button {
+  padding: 0.6rem 1.2rem;
+  margin: 0.5rem;
+  border-radius: 10px;
+  border: none;
+  background-color: #2563eb;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.running-controls {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.study-form {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.study-form input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  flex: 1;
+}
+
+.study-form button {
+  background-color: #22c55e;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.progress-bar {
+  margin: 1rem 0;
+}
+
+.bar-wrapper {
+  background: #d1d5db;
+  border-radius: 10px;
+  height: 20px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  background-color: #10b981;
+  transition: width 0.3s ease-in-out;
+}
+
+.chart-section {
+  margin: 2rem 0;
+}
+
+.logs ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.logs li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.edit-btn,
+.delete-btn {
+  margin-left: 1rem;
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: 1.2rem;
+}
