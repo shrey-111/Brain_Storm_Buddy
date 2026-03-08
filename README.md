@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Brain_Storm_Buddy
->>>>>>> 29df236ea8357bc8a2909910dd0e54bc375cef2c
+
