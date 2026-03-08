@@ -9,4 +9,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Brain_Storm_Buddy
-
+ Built a full-fledged educational web platform offering structured courses for UPSC, State PCS, and Full 
+Stack Development.
+ Designed interactive dashboards with login/logout functionality, user authentication, and session 
+management.
+ Implemented a community forum feature enabling users to post questions and answer others, fostering 
+peer learning.
+ Developed a rewards system with coin-based milestones, badges, and streak tracking to boost student 
+engagement.
