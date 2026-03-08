@@ -10,10 +10,10 @@ Currently, two official plugins are available:
 =======
 # Brain_Storm_Buddy
  Built a full-fledged educational web platform offering structured courses for UPSC, State PCS, and Full 
-Stack Development.
+Stack Development.
  Designed interactive dashboards with login/logout functionality, user authentication, and session 
-management.
+management.
  Implemented a community forum feature enabling users to post questions and answer others, fostering 
-peer learning.
+peer learning.
  Developed a rewards system with coin-based milestones, badges, and streak tracking to boost student 
-engagement.
+engagement.
